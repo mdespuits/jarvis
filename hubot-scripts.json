@@ -1,6 +1,6 @@
 [
   "brb.coffee",
-  "chess.coffee"
+  "chess.coffee",
   "redis-brain.coffee",
-  "shipit.coffee",
+  "shipit.coffee"
 ]
