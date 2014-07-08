@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n Jarvis
+web: bin/hubot --adapter slack
