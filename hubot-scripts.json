@@ -1,6 +1,9 @@
 [
   "brb.coffee",
   "chess.coffee",
+  "devexcuse.coffee",
+  "dice.coffee",
+  "dilbert.coffee",
   "redis-brain.coffee",
   "shipit.coffee"
 ]
